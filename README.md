@@ -41,6 +41,8 @@ A real-world example of queue can be a single-lane one-way road, where the vehic
           counter variable initially set to front incrementing value upto rear .
 ![image](https://user-images.githubusercontent.com/125560933/221842241-5d3e14de-cdfb-4b1f-b33e-71ffba901332.png)
 
+## Output:
+![image](https://user-images.githubusercontent.com/125560933/228203308-1f82f020-2fd2-4d5b-a689-f504ff5ec721.png)
 
 ## Applications of Queue Data Structure
 •	CPU Scheduling</br>
